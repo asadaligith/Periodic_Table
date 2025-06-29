@@ -15,3 +15,32 @@ td{
 .blank{
     border: none;
 }
+
+.sky{
+    background-color: rgb(0, 204, 204);
+}
+.blue{
+    background-color: blue;
+}
+
+.purple{
+    background-color: purple;
+}
+
+.liteyellow{
+    background-color: rgb(255, 191, 105);
+}
+
+.litegreen{
+    background-color: rgb(128, 224, 160);
+}
+.blueish{
+    background-color: rgb(128, 216, 224)
+}
+
+.orange{
+    background-color: orangered;
+}
+.Red{
+    background-color: red ;
+}
